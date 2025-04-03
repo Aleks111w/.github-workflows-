@@ -1,0 +1,4 @@
+# Игнорируем папки сборки
+/build
+/.gradle
+/local.properties
